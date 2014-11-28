@@ -1,0 +1,12 @@
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\TakePictures.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\TakePictures.pdb
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\ExifLib.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\Xamarin.Forms.Core.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\Xamarin.Forms.Core.xml
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\obj\Debug\TakePictures.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\obj\Debug\TakePictures.pdb
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\XLabs.Core.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\bin\Debug\XLabs.Core.pdb
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures\obj\Debug\TakePictures.csprojResolveAssemblyReference.cache

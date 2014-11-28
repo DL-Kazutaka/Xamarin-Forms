@@ -1,0 +1,5 @@
+D:\Desktop\Xamarin-Forms-Labs-master\src\XLabs\XLabs.Core\bin\Debug\XLabs.Core.dll
+D:\Desktop\Xamarin-Forms-Labs-master\src\XLabs\XLabs.Core\bin\Debug\XLabs.Core.pdb
+D:\Desktop\Xamarin-Forms-Labs-master\src\XLabs\XLabs.Core\obj\Debug\XLabs.Core.csprojResolveAssemblyReference.cache
+D:\Desktop\Xamarin-Forms-Labs-master\src\XLabs\XLabs.Core\obj\Debug\XLabs.Core.dll
+D:\Desktop\Xamarin-Forms-Labs-master\src\XLabs\XLabs.Core\obj\Debug\XLabs.Core.pdb

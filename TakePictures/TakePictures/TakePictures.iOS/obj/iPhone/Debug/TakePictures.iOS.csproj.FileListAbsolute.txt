@@ -1,0 +1,15 @@
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\obj\iPhone\Debug\
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\obj\iPhone\Debug\TakePictures.iOS.csprojResolveAssemblyReference.cache
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\FormsTemplateiOS.exe
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\FormsTemplateiOS.pdb
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\TakePictures.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\ExifLib.dll
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\TakePictures.pdb
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb
+D:\proj\matsu\20%\TakePictures\TakePictures\TakePictures.iOS\bin\iPhone\Debug\TakePictures.dll.mdb
