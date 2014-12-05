@@ -1,0 +1,11 @@
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\bin\Debug\TakePicture.dll
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\bin\Debug\TakePicture.pdb
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\bin\Debug\Xamarin.Forms.Core.dll
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\bin\Debug\Xamarin.Forms.Core.xml
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\obj\Debug\TakePicture.csprojResolveAssemblyReference.cache
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\obj\Debug\TakePicture.dll
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\obj\Debug\TakePicture.pdb
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\obj\Debug\MainPage.xaml.g.cs
+D:\proj\matsu\20%\TakePicture\TakePicture\TakePicture\obj\Debug\CapturePage.xaml.g.cs
